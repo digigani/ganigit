@@ -1,0 +1,9 @@
+{
+	"name": "ganigit",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e8fe9b62-d793-4689-84a2-0513f1016850",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
