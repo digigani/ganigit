@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ganigit"
+		},
+		"AzureBlobStorage_connectionString": {
+			"value": ""
 		}
 	}
 }
